@@ -31,3 +31,5 @@ $$
 $$
 
 Remember, gradiant method is sensitive to noise, so filtering before edge detection is important. (Threshold can be used as a pre-operation.)
+
+The code is similar to the line detection part, so we don't include program here.
